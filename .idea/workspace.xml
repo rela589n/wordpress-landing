@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c7cf3fc-8a06-497d-970e-13fc62643e20" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1210155827">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="js" value="12" />
+          <entry key="php" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="JavaScript" value="12" />
+          <entry key="PHP" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="1081" />
+          <entry key="js" value="1875" />
+          <entry key="php" value="4718" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="1081" />
+          <entry key="JavaScript" value="1875" />
+          <entry key="PHP" value="4718" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="303694282">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="49" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="6" />
+          <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.16" value="4" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="10" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="6" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="3" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.opened" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="2395" />
+          <entry key="js" value="4422" />
+          <entry key="php" value="8778" />
+          <entry key="ua" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="2395" />
+          <entry key="HTML" value="88" />
+          <entry key="JavaScript" value="4422" />
+          <entry key="PHP" value="8695" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="add_action" value="1" />
+          <entry key="css" value="4" />
+          <entry key="js" value="6" />
+          <entry key="less" value="1" />
+          <entry key="php" value="10" />
+          <entry key="ua" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="4" />
+          <entry key="JavaScript" value="6" />
+          <entry key="Less" value="1" />
+          <entry key="PHP" value="10" />
+          <entry key="UNKNOWN" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="1167" column="35" selection-start-line="1167" selection-start-column="35" selection-end-line="1167" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="http://test-444.kl.com.ua/">
+          <provider selected="true" editor-type-id="httpFileEditor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="984">
+              <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3384">
+              <caret line="143" column="42" selection-start-line="143" selection-start-column="42" selection-end-line="143" selection-end-column="42" />
+              <folding>
+                <element signature="e#1322#1468#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style-admin.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>header_labels</find>
+      <find>gwt_setting_callback_function</find>
+      <find>linksTop</find>
+      <find>href</find>
+      <find>clea</find>
+      <find>contact_e</find>
+      <find>footer .about</find>
+      <find>footer .about {</find>
+      <find>15</find>
+      <find>success</find>
+      <find>infor</find>
+      <find>contact_btn</find>
+      <find>aja</find>
+      <find>social_callback_textarea</find>
+      <find>not_empty_field</find>
+      <find>ajax</find>
+      <find>gwt-links</find>
+      <find>заг</find>
+      <find>$second_title</find>
+      <find>contact</find>
+      <find>service</find>
+      <find>scroll</find>
+      <find>moda</find>
+      <find>media</find>
+      <find>576</find>
+      <find>$head</find>
+      <find>fixed-head</find>
+      <find>padding_for_header</find>
+      <find>netwo</find>
+      <find>send</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>assets</replace>
+      <replace>&lt;?php echo GWT_IMG_DIR; ?&gt;/</replace>
+      <replace>service_main_title</replace>
+      <replace>header_first_title</replace>
+      <replace>portfolio_thumbnail modal_open</replace>
+      <replace>overlay</replace>
+      <replace>social_callback_inp</replace>
+      <replace>gwt_labels_callback</replace>
+      <replace>$title</replace>
+      <replace>social_callback</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="C:/../JavaScript Интенсивный курс для верстальщиков/05/hw/slider 2/js/script.js" />
+        <option value="$USER_HOME$/Desktop/portfolio/Motion Dmitry Lavrik/result/js/script.js" />
+        <option value="$USER_HOME$/Desktop/portfolio/golden one page web template/src/precss/animate.less" />
+        <option value="$USER_HOME$/Desktop/portfolio/golden one page web template/gulpfile.js" />
+        <option value="$PROJECT_DIR$/assets/css/style-admin.css" />
+        <option value="$PROJECT_DIR$/assets/js/test.js" />
+        <option value="$PROJECT_DIR$/assets/css/animate.min.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/assets/js/script.js" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/wp-config.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="golden template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golden template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golden template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golden template" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golden template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golden template" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golden template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golden template" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../ajax" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://test-444.kl.com.ua/" />
+      <recent name="https://informatics.msk.ru/mod/statements/view3.php?chapterid=2963" />
+      <recent name="https://wp-kama.ru/function/add_action" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\landing\wp-content\themes\golden template" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c7cf3fc-8a06-497d-970e-13fc62643e20" name="Default Changelist" comment="" />
+      <created>1534141153762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534141153762</updated>
+      <workItem from="1534141155144" duration="19351000" />
+      <workItem from="1534217788510" duration="3978000" />
+      <workItem from="1534260022300" duration="6073000" />
+      <workItem from="1534308597103" duration="4637000" />
+      <workItem from="1534329606876" duration="5943000" />
+      <workItem from="1534390462926" duration="11306000" />
+      <workItem from="1534441863194" duration="1171000" />
+      <workItem from="1534481654264" duration="8881000" />
+      <workItem from="1534565555888" duration="12549000" />
+      <workItem from="1534649757711" duration="3356000" />
+      <workItem from="1534678692183" duration="7706000" />
+      <workItem from="1534689802763" duration="2911000" />
+      <workItem from="1534740893659" duration="6544000" />
+      <workItem from="1534786545550" duration="2389000" />
+      <workItem from="1535101768766" duration="3038000" />
+      <workItem from="1535108385551" duration="7786000" />
+      <workItem from="1535173917593" duration="3813000" />
+      <workItem from="1535297674631" duration="599000" />
+      <workItem from="1535298858749" duration="25199000" />
+      <workItem from="1535429818314" duration="596000" />
+      <workItem from="1535447455661" duration="754000" />
+      <workItem from="1537327574216" duration="2581000" />
+      <workItem from="1537413822333" duration="2360000" />
+      <workItem from="1537500568526" duration="2156000" />
+      <workItem from="1537587297036" duration="11349000" />
+      <workItem from="1537673319608" duration="5219000" />
+      <workItem from="1537760965627" duration="390000" />
+      <workItem from="1537845712270" duration="2381000" />
+      <workItem from="1537932808929" duration="1574000" />
+      <workItem from="1537957274907" duration="6186000" />
+      <workItem from="1538019585015" duration="1200000" />
+      <workItem from="1538105298969" duration="2402000" />
+      <workItem from="1538133154549" duration="2755000" />
+      <workItem from="1538144834124" duration="1193000" />
+      <workItem from="1538160122203" duration="104000" />
+      <workItem from="1538217180690" duration="3969000" />
+      <workItem from="1538277836838" duration="2163000" />
+      <workItem from="1538312992778" duration="4266000" />
+      <workItem from="1538364454650" duration="2211000" />
+      <workItem from="1538451464324" duration="1479000" />
+      <workItem from="1538490667654" duration="611000" />
+      <workItem from="1538537381553" duration="2013000" />
+      <workItem from="1538623881991" duration="1762000" />
+      <workItem from="1538710336582" duration="1949000" />
+      <workItem from="1538797531535" duration="6792000" />
+      <workItem from="1538824327538" duration="1404000" />
+      <workItem from="1538883422667" duration="5149000" />
+      <workItem from="1538969456662" duration="2124000" />
+      <workItem from="1539022656779" duration="1451000" />
+      <workItem from="1539055723874" duration="1220000" />
+      <workItem from="1539057141184" duration="235000" />
+      <workItem from="1539057467084" duration="724000" />
+      <workItem from="1539088601957" duration="4818000" />
+      <workItem from="1539141723836" duration="2750000" />
+      <workItem from="1539168100778" duration="648000" />
+      <workItem from="1539228319135" duration="2373000" />
+      <workItem from="1539269486585" duration="6000" />
+      <workItem from="1539315263192" duration="1734000" />
+      <workItem from="1539345008117" duration="3851000" />
+      <workItem from="1539499691832" duration="4071000" />
+      <workItem from="1539572154384" duration="17638000" />
+      <workItem from="1539658893441" duration="3496000" />
+      <workItem from="1539745480153" duration="3935000" />
+      <workItem from="1539774764152" duration="1140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="266412000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34362417" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../../wpsite/wp-content/themes/twentyfifteen/functions.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/advanced-custom-fields/acf.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../wpsite/wp-content/themes/blog theme/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="219" column="5" lean-forward="true" selection-start-line="219" selection-start-column="5" selection-end-line="219" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/../JavaScript Интенсивный курс для верстальщиков/06/test/plugin/js/script.js" />
+    <entry file="file://C:/../JavaScript Интенсивный курс для верстальщиков/05/hw/fixedmenu Scrolling/js/script.js" />
+    <entry file="file://C:/../JavaScript Интенсивный курс для верстальщиков/05/hw/slider 2/js/script.js" />
+    <entry file="file://$USER_HOME$/Desktop/portfolio/Motion Dmitry Lavrik/result/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="233" column="7" lean-forward="true" selection-start-line="233" selection-start-column="7" selection-end-line="233" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/particles.js-master/particles.js-master/demo/js/lib/stats.js" />
+    <entry file="file://$USER_HOME$/Downloads/particles.js-master/particles.js-master/demo/js/app.js" />
+    <entry file="file://$USER_HOME$/Desktop/first job/smartgrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/portfolio/golden one page web template/src/precss/animate.less" />
+    <entry file="file://$USER_HOME$/Desktop/portfolio/golden one page web template/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylewbk.css" />
+    <entry file="file://$PROJECT_DIR$/assets/css/animate.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="https://wp-kama.ru/function/add_action">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="https://informatics.msk.ru/mod/statements/view3.php?chapterid=2963">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-917">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3384">
+          <caret line="143" column="42" selection-start-line="143" selection-start-column="42" selection-end-line="143" selection-end-column="42" />
+          <folding>
+            <element signature="e#1322#1468#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style-admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="1167" column="35" selection-start-line="1167" selection-start-column="35" selection-end-line="1167" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="http://test-444.kl.com.ua/">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+  </component>
+</project>

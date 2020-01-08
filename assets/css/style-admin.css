@@ -1,0 +1,10 @@
+.soc_fields {
+    display: flex;
+}
+.soc_fields .acf-label {
+    flex-basis: 12%;
+    padding-right: 15px;
+}
+.soc_fields .acf-input {
+    flex-grow: 1;
+}
